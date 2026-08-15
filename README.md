@@ -160,7 +160,7 @@
 * [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
 * [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
 * [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20\(Almost\)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
-* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2020-01-12
+* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2020-01-12
 * [关于我们在强网杯上小米路由器非预期解这件小事](https://www.anquanke.com/post/id/247597)
 * [强网杯 2021 线下 RW Mi Router](https://xuanxuanblingbling.github.io/iot/2021/07/15/mirouter/)
 * [Xiaomi AI Speaker Authenticated RCE I: Firmware Analysis](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-i-firmware-analysis/)
@@ -314,8 +314,8 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,228 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,539 | 🐛 42 | 🌐 Python | 📅 2026-08-10
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,232 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,540 | 🐛 42 | 🌐 Python | 📅 2026-08-10
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,062 | 🐛 154 | 🌐 Python | 📅 2026-08-13
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 997 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._

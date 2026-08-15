@@ -34,7 +34,7 @@
             "last_commit": "2026-08-11T15:27:34Z",
             "owner": "ReFirmLabs",
             "repo": "binwalk",
-            "stars": 14228
+            "stars": 14232
           }
         },
         {
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-10T04:32:54Z",
             "owner": "onekey-sec",
             "repo": "unblob",
-            "stars": 2539
+            "stars": 2540
           }
         },
         {
@@ -214,7 +214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:00:34.408Z",
+    "last_updated": "2026-08-15T21:58:41.346Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
     "enhanced_repository": "enhansome/enhansome-iot-security-resource",
