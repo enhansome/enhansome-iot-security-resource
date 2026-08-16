@@ -48,7 +48,7 @@
             "last_commit": "2026-08-10T04:32:54Z",
             "owner": "onekey-sec",
             "repo": "unblob",
-            "stars": 2540
+            "stars": 2541
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T20:46:46Z",
             "owner": "redballoonsecurity",
             "repo": "ofrak",
-            "stars": 2062
+            "stars": 2064
           }
         },
         {
@@ -76,7 +76,7 @@
             "last_commit": "2026-02-17T15:27:22Z",
             "owner": "rampageX",
             "repo": "firmware-mod-kit",
-            "stars": 997
+            "stars": 998
           }
         }
       ],
@@ -124,7 +124,7 @@
             "last_commit": "2020-09-27T20:58:55Z",
             "owner": "sgayou",
             "repo": "rbasefind",
-            "stars": 374
+            "stars": 375
           }
         },
         {
@@ -192,7 +192,7 @@
             "last_commit": "2026-08-09T22:13:57Z",
             "owner": "kimci86",
             "repo": "bkcrack",
-            "stars": 2167
+            "stars": 2168
           }
         },
         {
@@ -214,7 +214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:58:41.346Z",
+    "last_updated": "2026-08-16T21:58:01.772Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
     "enhanced_repository": "enhansome/enhansome-iot-security-resource",
