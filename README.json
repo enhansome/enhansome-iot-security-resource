@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-10T04:32:54Z",
+            "last_commit": "2026-08-17T09:18:04Z",
             "owner": "onekey-sec",
             "repo": "unblob",
             "stars": 2541
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-13T20:46:46Z",
             "owner": "redballoonsecurity",
             "repo": "ofrak",
-            "stars": 2064
+            "stars": 2065
           }
         },
         {
@@ -93,7 +93,7 @@
           "repo_info": {
             "archived": false,
             "language": "Shell",
-            "last_commit": "2026-08-11T03:52:23Z",
+            "last_commit": "2026-08-17T02:23:11Z",
             "owner": "e-m-b-a",
             "repo": "emba",
             "stars": 3594
@@ -214,7 +214,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:58:01.772Z",
+    "last_updated": "2026-08-17T22:01:59.563Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
     "enhanced_repository": "enhansome/enhansome-iot-security-resource",
