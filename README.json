@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14241
+                "stars": 14243
               }
             },
             {
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:35:41.074Z",
+    "last_updated": "2026-08-19T22:02:12.428Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_id": 565606198,
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
