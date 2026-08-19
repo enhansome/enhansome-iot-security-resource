@@ -1,221 +1,224 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Vulnerability Writeup"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Exploitation Method"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Firmware"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "binwalk",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14434734,
+                "language": "Rust",
+                "last_commit": "2026-08-11T15:27:34Z",
+                "owner": "ReFirmLabs",
+                "repo": "binwalk",
+                "stars": 14241
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "unblob",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374917397,
+                "language": "Python",
+                "last_commit": "2026-08-18T11:24:39Z",
+                "owner": "onekey-sec",
+                "repo": "unblob",
+                "stars": 2542
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ofrak",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522646351,
+                "language": "Python",
+                "last_commit": "2026-08-17T22:28:43Z",
+                "owner": "redballoonsecurity",
+                "repo": "ofrak",
+                "stars": 2065
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firmware-mod-kit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36507356,
+                "language": "C",
+                "last_commit": "2026-02-17T15:27:22Z",
+                "owner": "rampageX",
+                "repo": "firmware-mod-kit",
+                "stars": 998
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Extraction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "emba",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 290152313,
+                "language": "Shell",
+                "last_commit": "2026-08-18T19:37:49Z",
+                "owner": "e-m-b-a",
+                "repo": "emba",
+                "stars": 3598
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "firmwalker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50965326,
+                "language": "Shell",
+                "last_commit": "2023-08-29T18:20:21Z",
+                "owner": "craigz28",
+                "repo": "firmwalker",
+                "stars": 1222
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rbasefind",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112968804,
+                "language": "Rust",
+                "last_commit": "2020-09-27T20:58:55Z",
+                "owner": "sgayou",
+                "repo": "rbasefind",
+                "stars": 375
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyrrha",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658736352,
+                "language": "Python",
+                "last_commit": "2026-07-07T15:05:25Z",
+                "owner": "quarkslab",
+                "repo": "pyrrha",
+                "stars": 171
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gdb-static",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123471559,
+                "language": null,
+                "last_commit": "2021-09-30T21:10:59Z",
+                "owner": "hugsy",
+                "repo": "gdb-static",
+                "stars": 397
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gdb-static-cross",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94307468,
+                "language": "Shell",
+                "last_commit": "2017-05-25T16:18:47Z",
+                "owner": "stayliv3",
+                "repo": "gdb-static-cross",
+                "stars": 91
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Debug Tool"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bkcrack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70791926,
+                "language": "C++",
+                "last_commit": "2026-08-09T22:13:57Z",
+                "owner": "kimci86",
+                "repo": "bkcrack",
+                "stars": 2168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mips-binaries",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48337385,
+                "language": "Shell",
+                "last_commit": "2024-09-12T09:50:36Z",
+                "owner": "darkerego",
+                "repo": "mips-binaries",
+                "stars": 350
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        }
+      ],
       "title": "Tool"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "binwalk",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T15:27:34Z",
-            "owner": "ReFirmLabs",
-            "repo": "binwalk",
-            "stars": 14236
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "unblob",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:24:39Z",
-            "owner": "onekey-sec",
-            "repo": "unblob",
-            "stars": 2542
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ofrak",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:28:43Z",
-            "owner": "redballoonsecurity",
-            "repo": "ofrak",
-            "stars": 2065
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "firmware-mod-kit",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-02-17T15:27:22Z",
-            "owner": "rampageX",
-            "repo": "firmware-mod-kit",
-            "stars": 998
-          }
-        }
-      ],
-      "title": "Firmware Extraction"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "emba",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T19:37:49Z",
-            "owner": "e-m-b-a",
-            "repo": "emba",
-            "stars": 3596
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "firmwalker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2023-08-29T18:20:21Z",
-            "owner": "craigz28",
-            "repo": "firmwalker",
-            "stars": 1221
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rbasefind",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-09-27T20:58:55Z",
-            "owner": "sgayou",
-            "repo": "rbasefind",
-            "stars": 375
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyrrha",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-07T15:05:25Z",
-            "owner": "quarkslab",
-            "repo": "pyrrha",
-            "stars": 171
-          }
-        }
-      ],
-      "title": "Firmware Analysis"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gdb-static",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2021-09-30T21:10:59Z",
-            "owner": "hugsy",
-            "repo": "gdb-static",
-            "stars": 397
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gdb-static-cross",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-05-25T16:18:47Z",
-            "owner": "stayliv3",
-            "repo": "gdb-static-cross",
-            "stars": 91
-          }
-        }
-      ],
-      "title": "Debug Tool"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "bkcrack",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-09T22:13:57Z",
-            "owner": "kimci86",
-            "repo": "bkcrack",
-            "stars": 2168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mips-binaries",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-09-12T09:50:36Z",
-            "owner": "darkerego",
-            "repo": "mips-binaries",
-            "stars": 350
-          }
-        }
-      ],
-      "title": "Other"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:59:59.376Z",
+    "last_updated": "2026-08-19T12:35:41.074Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
+    "original_repository_id": 565606198,
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
     "enhanced_repository": "enhansome/enhansome-iot-security-resource",
     "enhanced_repository_description": null,
