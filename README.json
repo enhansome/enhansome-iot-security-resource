@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14243
+                "stars": 14245
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 374917397,
                 "language": "Python",
-                "last_commit": "2026-08-18T11:24:39Z",
+                "last_commit": "2026-08-20T14:48:52Z",
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2542
+                "stars": 2541
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2026-08-17T22:28:43Z",
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2065
+                "stars": 2066
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2020-09-27T20:58:55Z",
                 "owner": "sgayou",
                 "repo": "rbasefind",
-                "stars": 375
+                "stars": 376
               }
             },
             {
@@ -216,7 +216,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:02:12.428Z",
+    "last_updated": "2026-08-20T22:03:15.174Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_id": 565606198,
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
