@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,245 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,541 | 🐛 37 | 🌐 Python | 📅 2026-08-20
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,066 | 🐛 154 | 🌐 Python | 📅 2026-08-17
-* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 998 | 🐛 62 | 🌐 C | 📅 2026-02-17
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,251 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,542 | 🐛 36 | 🌐 Python | 📅 2026-08-21
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,066 | 🐛 155 | 🌐 Python | 📅 2026-08-21
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 999 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,598 | 🐛 27 | 🌐 Shell | 📅 2026-08-18
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,599 | 🐛 27 | 🌐 Shell | 📅 2026-08-18
 
 * [firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,222 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,168 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,170 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
