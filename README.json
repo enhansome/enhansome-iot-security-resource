@@ -7,6 +7,122 @@
           "children": [
             {
               "node_type": "item",
+              "title": "When an N-Day turns into a 0day. (Part 1 of 2)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 571058141,
+                "language": null,
+                "last_commit": "2022-11-27T20:35:49Z",
+                "owner": "b1ack0wl",
+                "repo": "vulnerability-write-ups",
+                "stars": 146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "TP-LINK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205419461,
+                "language": "Python",
+                "last_commit": "2020-01-12T02:34:45Z",
+                "owner": "UltramanGaia",
+                "repo": "Xiaomi_Mi_WiFi_R3G_Vulnerability_POC",
+                "stars": 184
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "XiaoMI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HiSilicon DVR hack",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102743409,
+                "language": "Python",
+                "last_commit": "2023-01-01T12:03:03Z",
+                "owner": "tothi",
+                "repo": "pwn-hisilicon-dvr",
+                "stars": 383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Camera"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Rooting Bosch lcn2kai Headunit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 328475801,
+                "language": "C",
+                "last_commit": "2024-08-20T18:41:40Z",
+                "owner": "ea",
+                "repo": "bosch_headunit_root",
+                "stars": 424
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Car"
+        }
+      ],
+      "title": "Vulnerability Writeup"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "firmadyne",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51781408,
+                "language": "Shell",
+                "last_commit": "2024-07-21T00:21:54Z",
+                "owner": "firmadyne",
+                "repo": "firmadyne",
+                "stars": 2102
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Firmware Emulation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "binwalk",
               "description": null,
               "children": [],
@@ -17,7 +133,7 @@
                 "last_commit": "2026-08-11T15:27:34Z",
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14258
+                "stars": 14264
               }
             },
             {
@@ -29,10 +145,10 @@
                 "archived": false,
                 "id": 374917397,
                 "language": "Python",
-                "last_commit": "2026-08-21T11:26:40Z",
+                "last_commit": "2026-08-24T01:45:39Z",
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2543
+                "stars": 2544
               }
             },
             {
@@ -62,7 +178,7 @@
                 "last_commit": "2026-02-17T15:27:22Z",
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 999
+                "stars": 1000
               }
             }
           ],
@@ -81,10 +197,10 @@
                 "archived": false,
                 "id": 290152313,
                 "language": "Shell",
-                "last_commit": "2026-08-22T16:59:57Z",
+                "last_commit": "2026-08-24T02:55:03Z",
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3605
+                "stars": 3607
               }
             },
             {
@@ -99,7 +215,7 @@
                 "last_commit": "2023-08-29T18:20:21Z",
                 "owner": "craigz28",
                 "repo": "firmwalker",
-                "stars": 1222
+                "stars": 1223
               }
             },
             {
@@ -188,7 +304,7 @@
                 "last_commit": "2026-08-09T22:13:57Z",
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2170
+                "stars": 2173
               }
             },
             {
@@ -216,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:59:23.291Z",
+    "last_updated": "2026-08-24T14:43:10.078Z",
     "original_repository": "f1tao/awesome-iot-security-resource",
     "original_repository_id": 565606198,
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",

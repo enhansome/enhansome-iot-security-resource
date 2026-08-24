@@ -157,10 +157,10 @@
 
 ### XiaoMI
 
+* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2020-01-12
 * [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
 * [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
 * [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20\(Almost\)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
-* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 184 | 🐛 1 | 🌐 Python | 📅 2020-01-12
 * [关于我们在强网杯上小米路由器非预期解这件小事](https://www.anquanke.com/post/id/247597)
 * [强网杯 2021 线下 RW Mi Router](https://xuanxuanblingbling.github.io/iot/2021/07/15/mirouter/)
 * [Xiaomi AI Speaker Authenticated RCE I: Firmware Analysis](https://blog.csftech.net/xiaomi-ai-speaker-authenticated-rce-i-firmware-analysis/)
@@ -218,13 +218,13 @@
 
 ### Car
 
+* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 424 | 🐛 13 | 🌐 C | 📅 2024-08-20
 * [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
 * [NFC RELAY ATTACK ON TESLA MODEL Y](https://act-on.ioactive.com/acton/attachment/34793/f-6460b49e-1afe-41c3-8f73-17dc14916847/1/-/-/-/-/NFC-relay-TESlA_JRoriguez.pdf)
 * [浅谈车机IVI漏洞挖掘](https://xz.aliyun.com/t/12988)
 * [新型车机，如何攻防？](https://blog.nsfocus.net/tbox/)
-* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 424 | 🐛 13 | 🌐 C | 📅 2024-08-20
 * [APK逆向分析入门-以某车载音乐APP为例](https://xz.aliyun.com/t/12972)
 
 ### Smart Speaker
@@ -310,20 +310,20 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,100 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,102 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,258 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,543 | 🐛 36 | 🌐 Python | 📅 2026-08-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,264 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,544 | 🐛 36 | 🌐 Python | 📅 2026-08-24
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,067 | 🐛 155 | 🌐 Python | 📅 2026-08-21
-* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 999 | 🐛 62 | 🌐 C | 📅 2026-02-17
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,605 | 🐛 28 | 🌐 Shell | 📅 2026-08-22
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,607 | 🐛 32 | 🌐 Shell | 📅 2026-08-24
 
-* [firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,222 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
+* [firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,223 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 376 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,170 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,173 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
