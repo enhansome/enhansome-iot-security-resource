@@ -321,7 +321,7 @@
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,608 | 🐛 27 | 🌐 Shell | 📅 2026-08-24
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,609 | 🐛 27 | 🌐 Shell | 📅 2026-08-24
 
 * [firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,223 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,174 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,175 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
