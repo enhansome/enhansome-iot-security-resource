@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repo contains write ups of vulnerabilities I've found and exploits I've publicly developed.",
+                "homepage": null,
                 "id": 571058141,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-27T20:35:49Z",
+                "open_issues": 0,
                 "owner": "b1ack0wl",
                 "repo": "vulnerability-write-ups",
-                "stars": 146
+                "stars": 146,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -35,12 +40,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to version 2.28.23.",
+                "homepage": null,
                 "id": 205419461,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-01-12T02:34:45Z",
+                "open_issues": 1,
                 "owner": "UltramanGaia",
                 "repo": "Xiaomi_Mi_WiFi_R3G_Vulnerability_POC",
-                "stars": 185
+                "stars": 185,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -58,12 +68,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 102743409,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-01-01T12:03:03Z",
+                "open_issues": 3,
                 "owner": "tothi",
                 "repo": "pwn-hisilicon-dvr",
-                "stars": 384
+                "stars": 384,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -81,12 +96,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Documentation and code for rooting and extending a Bosch car head unit (lcn2kai)",
+                "homepage": null,
                 "id": 328475801,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-08-20T18:41:40Z",
+                "open_issues": 13,
                 "owner": "ea",
                 "repo": "bosch_headunit_root",
-                "stars": 425
+                "stars": 425,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -110,12 +130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Platform for emulation and dynamic analysis of Linux-based firmware",
+                "homepage": null,
                 "id": 51781408,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2024-07-21T00:21:54Z",
+                "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2102
+                "stars": 2102,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -133,12 +158,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Firmware Analysis Tool",
+                "homepage": null,
                 "id": 14434734,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
+                "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14283
+                "stars": 14284,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -149,12 +179,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract files from any kind of container formats",
+                "homepage": "https://unblob.org",
                 "id": 374917397,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-28T09:22:12Z",
+                "open_issues": 35,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2545
+                "stars": 2545,
+                "topics": [
+                  "archive",
+                  "compression",
+                  "extraction",
+                  "filesystem",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -165,12 +206,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OFRAK: unpack, modify, and repack binaries.",
+                "homepage": "https://ofrak.com",
                 "id": 522646351,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-21T16:27:13Z",
+                "open_issues": 157,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2068
+                "stars": 2068,
+                "topics": [
+                  "ctf",
+                  "firmware",
+                  "firmware-tools",
+                  "hacktoberfest",
+                  "repacking",
+                  "reverse-engineering",
+                  "unpacker"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -181,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically exported from code.google.com/p/firmware-mod-kit",
+                "homepage": null,
                 "id": 36507356,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-02-17T15:27:22Z",
+                "open_issues": 62,
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 1000
+                "stars": 1000,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -204,12 +263,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EMBA - The firmware security analyzer",
+                "homepage": "https://www.securefirmware.de",
                 "id": 290152313,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:54:46Z",
+                "open_issues": 25,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3617
+                "stars": 3617,
+                "topics": [
+                  "artificial-intelligence",
+                  "binary-analysis",
+                  "embedded-linux",
+                  "embedded-systems",
+                  "firmware",
+                  "firmware-analysis",
+                  "firmware-tools",
+                  "hacking",
+                  "infosec",
+                  "iot",
+                  "linux",
+                  "penetration-testing",
+                  "pentesting",
+                  "reverse-engineering",
+                  "sbom",
+                  "security",
+                  "security-tools",
+                  "static-analyzer",
+                  "vulnerability-scanner",
+                  "vulnerability-scanners"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -220,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Script for searching the extracted firmware file system for goodies!",
+                "homepage": null,
                 "id": 50965326,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-29T18:20:21Z",
+                "open_issues": 5,
                 "owner": "craigz28",
                 "repo": "firmwalker",
-                "stars": 1225
+                "stars": 1225,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -236,12 +326,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A firmware base address search tool.",
+                "homepage": null,
                 "id": 112968804,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2020-09-27T20:58:55Z",
+                "open_issues": 1,
                 "owner": "sgayou",
                 "repo": "rbasefind",
-                "stars": 376
+                "stars": 376,
+                "topics": [
+                  "firmware-analysis",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -252,12 +350,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for firmware cartography",
+                "homepage": "https://quarkslab.github.io/pyrrha/",
                 "id": 658736352,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-07T15:05:25Z",
+                "open_issues": 0,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
-                "stars": 171
+                "stars": 171,
+                "topics": [
+                  "firmware-analysis",
+                  "firmware-tools",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -275,12 +382,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Public repository of statically compiled GDB and GDBServer",
+                "homepage": null,
                 "id": 123471559,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2021-09-30T21:10:59Z",
+                "open_issues": 2,
                 "owner": "hugsy",
                 "repo": "gdb-static",
-                "stars": 397
+                "stars": 397,
+                "topics": [
+                  "debug",
+                  "exploit",
+                  "gdb",
+                  "gdbserver",
+                  "gef",
+                  "linux",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -291,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple shell script and two bash sourceable scripts used to build a static gdb-7.12 gdbserver using cross-compiler setups",
+                "homepage": null,
                 "id": 94307468,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2017-05-25T16:18:47Z",
+                "open_issues": 0,
                 "owner": "stayliv3",
                 "repo": "gdb-static-cross",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -314,12 +439,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crack legacy zip encryption with Biham and Kocher's known plaintext attack.",
+                "homepage": null,
                 "id": 70791926,
                 "language": "C++",
+                "license": "Zlib",
                 "last_commit": "2026-08-09T22:13:57Z",
+                "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2177
+                "stars": 2177,
+                "topics": [
+                  "attack",
+                  "ciphertext",
+                  "crack",
+                  "cracking",
+                  "multithread",
+                  "password",
+                  "pkzip",
+                  "plaintext-attack",
+                  "zip",
+                  "zipcracker",
+                  "zipcrypto"
+                ]
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -330,12 +472,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various binaries for the mips architecture.",
+                "homepage": null,
                 "id": 48337385,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2024-09-12T09:50:36Z",
+                "open_issues": 0,
                 "owner": "darkerego",
                 "repo": "mips-binaries",
-                "stars": 350
+                "stars": 350,
+                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             }
@@ -349,15 +496,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:23:09.277Z",
+    "last_updated": "2026-08-29T05:02:26.092Z",
     "original_repository_info": {
       "archived": false,
+      "description": "awesome iot exploit resource",
+      "homepage": null,
       "id": 565606198,
       "language": null,
+      "license": null,
       "last_commit": "2024-07-15T14:11:29Z",
+      "open_issues": 1,
       "owner": "f1tao",
       "repo": "awesome-iot-security-resource",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "embedded",
+        "exploit",
+        "firmware",
+        "hardware-hacking",
+        "iot",
+        "iot-device",
+        "iot-security",
+        "security",
+        "vulnerability"
+      ]
     },
     "original_repository_sha": "5ffd399853fd7790ec8e2a2351e463a0868b42c0",
     "enhanced_repository": "enhansome/enhansome-iot-security-resource",

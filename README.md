@@ -314,7 +314,7 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,283 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,284 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
 * [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,545 | 🐛 35 | 📅 2026-08-28
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,068 | 🐛 157 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
