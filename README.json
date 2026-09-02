@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2104,
+                "stars": 2105,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14298,
+                "stars": 14301,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -215,7 +215,7 @@
                 "open_issues": 157,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2069,
+                "stars": 2070,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-01T13:59:48Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-02T16:52:52Z",
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3626,
+                "stars": 3635,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -295,27 +295,6 @@
                   "vulnerability-scanner",
                   "vulnerability-scanners"
                 ]
-              },
-              "first_seen": "2026-08-28T05:49:55.576Z"
-            },
-            {
-              "node_type": "item",
-              "title": "firmwalker",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Script for searching the extracted firmware file system for goodies!",
-                "homepage": null,
-                "id": 50965326,
-                "language": "Shell",
-                "license": "GPL-3.0",
-                "last_commit": "2023-08-29T18:20:21Z",
-                "open_issues": 5,
-                "owner": "craigz28",
-                "repo": "firmwalker",
-                "stars": 1225,
-                "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
             },
@@ -391,7 +370,7 @@
                 "open_issues": 2,
                 "owner": "hugsy",
                 "repo": "gdb-static",
-                "stars": 397,
+                "stars": 396,
                 "topics": [
                   "debug",
                   "exploit",
@@ -496,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:34:59.382Z",
+    "last_updated": "2026-09-02T23:35:19.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",

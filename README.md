@@ -310,20 +310,18 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,104 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,105 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,298 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,301 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
 * [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,548 | 🐛 38 | 📅 2026-09-01
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,069 | 🐛 157 | 🌐 Python | 📅 2026-08-21
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,070 | 🐛 157 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,626 | 🐛 20 | 🌐 Shell | 📅 2026-09-01
-
-* [firmwalker](https://github.com/craigz28/firmwalker) ⭐ 1,225 | 🐛 5 | 🌐 Shell | 📅 2023-08-29
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,635 | 🐛 16 | 🌐 Shell | 📅 2026-09-02
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 376 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -333,9 +331,11 @@
 
   A filesystem cartography and correlation software focusing on visualization.
 
+* [firmwalker](https://github.com/craigz28/firmwalker)
+
 ### Debug Tool
 
-* [gdb-static](https://github.com/hugsy/gdb-static) ⭐ 397 | 🐛 2 | 📅 2021-09-30
+* [gdb-static](https://github.com/hugsy/gdb-static) ⭐ 396 | 🐛 2 | 📅 2021-09-30
 
   Public repository of statically compiled GDB and GDBServer
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
