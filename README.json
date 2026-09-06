@@ -167,7 +167,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14313,
+                "stars": 14318,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -188,7 +188,7 @@
                 "open_issues": 39,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2548,
+                "stars": 2549,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T09:18:59Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-06T09:40:06Z",
+                "open_issues": 13,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3646,
+                "stars": 3647,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -427,7 +427,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2185,
+                "stars": 2186,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:22:25.540Z",
+    "last_updated": "2026-09-06T23:13:12.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
@@ -484,7 +484,7 @@
       "language": null,
       "license": null,
       "last_commit": "2024-07-15T14:11:29Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "f1tao",
       "repo": "awesome-iot-security-resource",
       "stars": 77,
