@@ -167,7 +167,7 @@
                 "open_issues": 93,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14318,
+                "stars": 14320,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -182,13 +182,13 @@
                 "description": "Extract files from any kind of container formats",
                 "homepage": "https://unblob.org",
                 "id": 374917397,
-                "language": null,
+                "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-04T13:46:11Z",
-                "open_issues": 39,
+                "last_commit": "2026-09-07T03:59:22Z",
+                "open_issues": 40,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2549,
+                "stars": 2550,
                 "topics": [
                   "archive",
                   "compression",
@@ -244,7 +244,7 @@
                 "open_issues": 62,
                 "owner": "rampageX",
                 "repo": "firmware-mod-kit",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T09:40:06Z",
+                "last_commit": "2026-09-07T14:31:08Z",
                 "open_issues": 13,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3647,
+                "stars": 3651,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -427,7 +427,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2186,
+                "stars": 2188,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T23:13:12.867Z",
+    "last_updated": "2026-09-07T23:47:28.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
