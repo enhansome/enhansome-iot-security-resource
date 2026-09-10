@@ -189,7 +189,7 @@
 
 ### Camera
 
-* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 384 | 🐛 3 | 🌐 Python | 📅 2023-01-01
+* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 385 | 🐛 3 | 🌐 Python | 📅 2023-01-01
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 * [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
@@ -314,8 +314,8 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,326 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,552 | 🐛 41 | 🌐 Python | 📅 2026-09-08
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,330 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,553 | 🐛 41 | 🌐 Python | 📅 2026-09-08
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,070 | 🐛 156 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
@@ -327,7 +327,7 @@
 
   A firmware base address search tool.
 
-* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 171 | 🐛 0 | 🌐 Python | 📅 2026-09-08
+* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 171 | 🐛 0 | 🌐 Python | 📅 2026-09-10
 
   A filesystem cartography and correlation software focusing on visualization.
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,186 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,188 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
