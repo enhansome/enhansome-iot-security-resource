@@ -310,18 +310,18 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,106 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,103 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,334 | 🐛 93 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,554 | 🐛 41 | 🌐 Python | 📅 2026-09-08
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,337 | 🐛 92 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,555 | 🐛 41 | 🌐 Python | 📅 2026-09-08
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,070 | 🐛 156 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,657 | 🐛 13 | 🌐 Shell | 📅 2026-09-11
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,658 | 🐛 13 | 🌐 Shell | 📅 2026-09-11
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 376 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
