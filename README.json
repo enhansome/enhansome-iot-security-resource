@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2103,
+                "stars": 2104,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 92,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14337,
+                "stars": 14340,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,7 +184,7 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-08T09:41:19Z",
+                "last_commit": "2026-09-14T08:01:25Z",
                 "open_issues": 41,
                 "owner": "onekey-sec",
                 "repo": "unblob",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-11T14:44:47Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-14T15:26:02Z",
+                "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3658,
+                "stars": 3661,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -334,7 +334,7 @@
                 "id": 658736352,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T13:00:39Z",
+                "last_commit": "2026-09-14T14:47:51Z",
                 "open_issues": 0,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
@@ -427,7 +427,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2188,
+                "stars": 2189,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T23:35:47.692Z",
+    "last_updated": "2026-09-15T00:00:51.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
