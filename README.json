@@ -167,7 +167,7 @@
                 "open_issues": 94,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14357,
+                "stars": 14360,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,7 +184,7 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-16T10:15:40Z",
+                "last_commit": "2026-09-21T02:36:46Z",
                 "open_issues": 40,
                 "owner": "onekey-sec",
                 "repo": "unblob",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-18T07:58:16Z",
+                "last_commit": "2026-09-21T15:02:24Z",
                 "open_issues": 13,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3673,
+                "stars": 3674,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -334,7 +334,7 @@
                 "id": 658736352,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-18T11:27:03Z",
+                "last_commit": "2026-09-21T15:24:30Z",
                 "open_issues": 0,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
@@ -427,7 +427,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2198,
+                "stars": 2199,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T23:33:46.417Z",
+    "last_updated": "2026-09-22T00:18:15.154Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
