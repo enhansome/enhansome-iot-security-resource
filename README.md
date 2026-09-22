@@ -310,12 +310,12 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,106 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,105 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,360 | 🐛 94 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,557 | 🐛 40 | 🌐 Python | 📅 2026-09-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,364 | 🐛 94 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,558 | 🐛 39 | 🌐 Python | 📅 2026-09-22
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,070 | 🐛 156 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,001 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
@@ -327,7 +327,7 @@
 
   A firmware base address search tool.
 
-* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 0 | 🌐 Python | 📅 2026-09-21
+* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 0 | 🌐 Python | 📅 2026-09-22
 
   A filesystem cartography and correlation software focusing on visualization.
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,199 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,202 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 349 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 

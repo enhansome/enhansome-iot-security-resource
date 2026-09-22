@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2106,
+                "stars": 2105,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 94,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14360,
+                "stars": 14364,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-21T02:36:46Z",
-                "open_issues": 40,
+                "last_commit": "2026-09-22T08:18:28Z",
+                "open_issues": 39,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2557,
+                "stars": 2558,
                 "topics": [
                   "archive",
                   "compression",
@@ -334,7 +334,7 @@
                 "id": 658736352,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-21T15:24:30Z",
+                "last_commit": "2026-09-22T14:36:23Z",
                 "open_issues": 0,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
@@ -427,7 +427,7 @@
                 "open_issues": 20,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2199,
+                "stars": 2202,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:18:15.154Z",
+    "last_updated": "2026-09-22T23:51:37.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
