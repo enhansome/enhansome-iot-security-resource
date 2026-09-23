@@ -77,7 +77,7 @@
                 "open_issues": 3,
                 "owner": "tothi",
                 "repo": "pwn-hisilicon-dvr",
-                "stars": 385,
+                "stars": 383,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2105,
+                "stars": 2106,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -164,10 +164,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 94,
+                "open_issues": 95,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14364,
+                "stars": 14367,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -188,7 +188,7 @@
                 "open_issues": 39,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2558,
+                "stars": 2559,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-21T15:02:24Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-23T10:01:07Z",
+                "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3674,
+                "stars": 3675,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:51:37.426Z",
+    "last_updated": "2026-09-23T23:59:29.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
