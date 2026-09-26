@@ -189,7 +189,7 @@
 
 ### Camera
 
-* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 383 | 🐛 3 | 🌐 Python | 📅 2023-01-01
+* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 384 | 🐛 3 | 🌐 Python | 📅 2023-01-01
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 * [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
@@ -310,24 +310,24 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,105 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,106 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,369 | 🐛 96 | 🌐 Rust | 📅 2026-08-11
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,370 | 🐛 96 | 🌐 Rust | 📅 2026-08-11
 * [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,559 | 🐛 38 | 🌐 Python | 📅 2026-09-24
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,070 | 🐛 156 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 999 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,678 | 🐛 14 | 🌐 Shell | 📅 2026-09-24
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,679 | 🐛 14 | 🌐 Shell | 📅 2026-09-24
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 376 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
   A firmware base address search tool.
 
-* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2026-09-22
+* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2026-09-25
 
   A filesystem cartography and correlation software focusing on visualization.
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,202 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,203 | 🐛 20 | 🌐 C++ | 📅 2026-08-09
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 349 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
