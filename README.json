@@ -167,7 +167,7 @@
                 "open_issues": 96,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14370,
+                "stars": 14373,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -188,7 +188,7 @@
                 "open_issues": 38,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2559,
+                "stars": 2561,
                 "topics": [
                   "archive",
                   "compression",
@@ -272,7 +272,7 @@
                 "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3679,
+                "stars": 3678,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -423,8 +423,8 @@
                 "id": 70791926,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-08-09T22:13:57Z",
-                "open_issues": 20,
+                "last_commit": "2026-09-26T12:57:15Z",
+                "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
                 "stars": 2203,
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:10:08.873Z",
+    "last_updated": "2026-09-26T23:56:02.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
