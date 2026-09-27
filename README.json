@@ -77,7 +77,7 @@
                 "open_issues": 3,
                 "owner": "tothi",
                 "repo": "pwn-hisilicon-dvr",
-                "stars": 384,
+                "stars": 385,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 96,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14373,
+                "stars": 14374,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -272,7 +272,7 @@
                 "open_issues": 14,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3678,
+                "stars": 3680,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2203,
+                "stars": 2205,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:56:02.118Z",
+    "last_updated": "2026-09-27T23:59:52.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
