@@ -157,7 +157,7 @@
 
 ### XiaoMI
 
-* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2020-01-12
+* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2020-01-12
 * [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
 * [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
 * [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20\(Almost\)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
@@ -314,8 +314,8 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,391 | 🐛 98 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,564 | 🐛 40 | 🌐 Python | 📅 2026-10-01
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,389 | 🐛 98 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,563 | 🐛 38 | 🌐 Python | 📅 2026-10-05
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,072 | 🐛 158 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

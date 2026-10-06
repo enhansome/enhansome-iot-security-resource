@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "UltramanGaia",
                 "repo": "Xiaomi_Mi_WiFi_R3G_Vulnerability_POC",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 98,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14391,
+                "stars": 14389,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-01T08:03:45Z",
-                "open_issues": 40,
+                "last_commit": "2026-10-05T07:55:31Z",
+                "open_issues": 38,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2564,
+                "stars": 2563,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,7 +268,7 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T00:00:59Z",
+                "last_commit": "2026-10-05T10:04:53Z",
                 "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T00:12:23.172Z",
+    "last_updated": "2026-10-06T01:56:04.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
