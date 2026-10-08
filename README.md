@@ -189,7 +189,7 @@
 
 ### Camera
 
-* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 385 | 🐛 3 | 🌐 Python | 📅 2023-01-01
+* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 384 | 🐛 3 | 🌐 Python | 📅 2023-01-01
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 * [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
@@ -310,18 +310,18 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,111 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,112 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,390 | 🐛 98 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,564 | 🐛 38 | 🌐 Python | 📅 2026-10-05
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,073 | 🐛 158 | 🌐 Python | 📅 2026-08-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,395 | 🐛 99 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,563 | 🐛 38 | 🌐 Python | 📅 2026-10-05
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,075 | 🐛 158 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,689 | 🐛 19 | 🌐 Shell | 📅 2026-10-05
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,692 | 🐛 19 | 🌐 Shell | 📅 2026-10-05
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
