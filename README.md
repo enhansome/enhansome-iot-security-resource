@@ -218,7 +218,7 @@
 
 ### Car
 
-* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 429 | 🐛 13 | 🌐 C | 📅 2024-08-20
+* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 430 | 🐛 13 | 🌐 C | 📅 2024-08-20
 * [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,395 | 🐛 99 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,563 | 🐛 38 | 🌐 Python | 📅 2026-10-05
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,398 | 🐛 99 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,565 | 🐛 38 | 🌐 Python | 📅 2026-10-05
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,075 | 🐛 158 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,000 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,692 | 🐛 19 | 🌐 Shell | 📅 2026-10-05
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,694 | 🐛 19 | 🌐 Shell | 📅 2026-10-05
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,209 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,210 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 349 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
