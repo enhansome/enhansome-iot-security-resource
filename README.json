@@ -167,7 +167,7 @@
                 "open_issues": 99,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14442,
+                "stars": 14456,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-12T00:34:40Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-12T15:51:19Z",
+                "open_issues": 41,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2570,
+                "stars": 2571,
                 "topics": [
                   "archive",
                   "compression",
@@ -215,7 +215,7 @@
                 "open_issues": 158,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2075,
+                "stars": 2076,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-12T00:42:22Z",
-                "open_issues": 21,
+                "last_commit": "2026-10-12T10:34:33Z",
+                "open_issues": 18,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3697,
+                "stars": 3701,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -334,7 +334,7 @@
                 "id": 658736352,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T12:21:26Z",
+                "last_commit": "2026-10-12T12:56:49Z",
                 "open_issues": 1,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2211,
+                "stars": 2212,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -460,7 +460,7 @@
                 "open_issues": 0,
                 "owner": "darkerego",
                 "repo": "mips-binaries",
-                "stars": 350,
+                "stars": 351,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T00:44:39.706Z",
+    "last_updated": "2026-10-13T02:43:33.668Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",

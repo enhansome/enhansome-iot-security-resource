@@ -314,20 +314,20 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,442 | 🐛 99 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,570 | 🐛 39 | 🌐 Python | 📅 2026-10-12
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,075 | 🐛 158 | 🌐 Python | 📅 2026-08-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,456 | 🐛 99 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,571 | 🐛 41 | 🌐 Python | 📅 2026-10-12
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,076 | 🐛 158 | 🌐 Python | 📅 2026-08-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,001 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,697 | 🐛 21 | 🌐 Shell | 📅 2026-10-12
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,701 | 🐛 18 | 🌐 Shell | 📅 2026-10-12
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
   A firmware base address search tool.
 
-* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2026-09-25
+* [pyrrha](https://github.com/quarkslab/pyrrha) ⭐ 172 | 🐛 1 | 🌐 Python | 📅 2026-10-12
 
   A filesystem cartography and correlation software focusing on visualization.
 
@@ -345,9 +345,9 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,211 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,212 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
-* [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
+* [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 351 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
   Various binaries for the mips architecture
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
