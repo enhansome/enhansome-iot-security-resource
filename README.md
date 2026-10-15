@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,467 | 🐛 100 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,572 | 🐛 40 | 🌐 Python | 📅 2026-10-13
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,076 | 🐛 158 | 🌐 Python | 📅 2026-08-21
-* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,002 | 🐛 62 | 🌐 C | 📅 2026-02-17
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,479 | 🐛 100 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,575 | 🐛 40 | 🌐 Python | 📅 2026-10-14
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,079 | 🐛 158 | 🌐 Python | 📅 2026-08-21
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,003 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,706 | 🐛 18 | 🌐 Shell | 📅 2026-10-12
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,709 | 🐛 18 | 🌐 Shell | 📅 2026-10-12
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -339,7 +339,7 @@
 
   Public repository of statically compiled GDB and GDBServer
 
-* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt) ⭐ 92 | 🐛 0 | 🌐 Shell | 📅 2017-05-25
+* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2017-05-25
 
   A simple shell script and two bash sourceable scripts used to build a static gdb-7.12 gdbserver using cross-compiler setups
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
