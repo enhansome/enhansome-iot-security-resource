@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,488 | 🐛 100 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,577 | 🐛 42 | 🌐 Python | 📅 2026-10-15
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,080 | 🐛 158 | 🌐 Python | 📅 2026-08-21
-* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,006 | 🐛 62 | 🌐 C | 📅 2026-02-17
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,498 | 🐛 100 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,577 | 🐛 42 | 🌐 Python | 📅 2026-10-16
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,081 | 🐛 158 | 🌐 Python | 📅 2026-08-21
+* [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,007 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,712 | 🐛 18 | 🌐 Shell | 📅 2026-10-12
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,715 | 🐛 18 | 🌐 Shell | 📅 2026-10-12
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,216 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,221 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 351 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
