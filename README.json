@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2114,
+                "stars": 2115,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 100,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14498,
+                "stars": 14501,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -269,7 +269,7 @@
                 "language": "Shell",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-12T10:34:33Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
                 "stars": 3715,
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:55:35.951Z",
+    "last_updated": "2026-10-17T23:28:39.997Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
