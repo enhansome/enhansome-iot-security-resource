@@ -167,7 +167,7 @@
                 "open_issues": 102,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14533,
+                "stars": 14539,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -185,10 +185,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-21T01:58:37Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2591,
+                "stars": 2594,
                 "topics": [
                   "archive",
                   "compression",
@@ -215,7 +215,7 @@
                 "open_issues": 158,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2081,
+                "stars": 2082,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -272,7 +272,7 @@
                 "open_issues": 17,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3717,
+                "stars": 3719,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -338,7 +338,7 @@
                 "open_issues": 0,
                 "owner": "quarkslab",
                 "repo": "pyrrha",
-                "stars": 172,
+                "stars": 173,
                 "topics": [
                   "firmware-analysis",
                   "firmware-tools",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2225,
+                "stars": 2226,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T00:15:42.870Z",
+    "last_updated": "2026-10-23T00:11:58.572Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
