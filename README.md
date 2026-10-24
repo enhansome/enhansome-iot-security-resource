@@ -189,7 +189,7 @@
 
 ### Camera
 
-* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 384 | 🐛 3 | 🌐 Python | 📅 2023-01-01
+* [HiSilicon DVR hack](https://github.com/tothi/pwn-hisilicon-dvr/tree/42d8325e68fdb075fe27df8a269932f9fa9601a6) ⭐ 383 | 🐛 3 | 🌐 Python | 📅 2023-01-01
 * [Exploiting: Buffer overflow in Xiongmai DVRs](https://blog.ret2.me/post/2022-01-26-exploiting-xiongmai-dvrs/)
 * [Hacking the Furbo Dog Camera: Part I](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-part-1)
 * [Hacking the Furbo Dog Camera: Part II](https://www.somersetrecon.com/blog/2021/hacking-the-furbo-dog-camera-part-ii)
@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,539 | 🐛 102 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,594 | 🐛 49 | 🌐 Python | 📅 2026-10-21
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,082 | 🐛 158 | 🌐 Python | 📅 2026-10-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,542 | 🐛 102 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,596 | 🐛 49 | 🌐 Python | 📅 2026-10-21
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,082 | 🐛 159 | 🌐 Python | 📅 2026-10-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,007 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,719 | 🐛 17 | 🌐 Shell | 📅 2026-10-21
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,720 | 🐛 15 | 🌐 Shell | 📅 2026-10-23
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
