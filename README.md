@@ -218,7 +218,7 @@
 
 ### Car
 
-* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 433 | 🐛 13 | 🌐 C | 📅 2024-08-20
+* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 434 | 🐛 13 | 🌐 C | 📅 2024-08-20
 * [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,542 | 🐛 102 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,596 | 🐛 49 | 🌐 Python | 📅 2026-10-21
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,543 | 🐛 102 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,597 | 🐛 49 | 🌐 Python | 📅 2026-10-21
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,082 | 🐛 159 | 🌐 Python | 📅 2026-10-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,007 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,720 | 🐛 15 | 🌐 Shell | 📅 2026-10-23
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,721 | 🐛 15 | 🌐 Shell | 📅 2026-10-24
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -339,13 +339,13 @@
 
   Public repository of statically compiled GDB and GDBServer
 
-* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt) ⭐ 93 | 🐛 0 | 🌐 Shell | 📅 2017-05-25
+* [gdb-static-cross](https://github.com/stayliv3/gdb-static-cross/tree/master/prebuilt) ⭐ 92 | 🐛 0 | 🌐 Shell | 📅 2017-05-25
 
   A simple shell script and two bash sourceable scripts used to build a static gdb-7.12 gdbserver using cross-compiler setups
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,226 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,227 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 351 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
