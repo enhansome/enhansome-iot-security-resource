@@ -157,7 +157,7 @@
 
 ### XiaoMI
 
-* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 186 | 🐛 1 | 🌐 Python | 📅 2020-01-12
+* [小米R3A和R4系列路由器远程命令执行漏洞（CVE-2019-18370，CVE-2019-18371）](https://github.com/UltramanGaia/Xiaomi_Mi_WiFi_R3G_Vulnerability_POC/blob/master/report/report.md) ⭐ 185 | 🐛 1 | 🌐 Python | 📅 2020-01-12
 * [实战逻辑漏洞：三个漏洞搞定一台路由器](https://zhuanlan.zhihu.com/p/245070099)
 * [【长亭HITCON演讲视频】如何从零开始攻破一台明星IoT设备](https://www.bilibili.com/video/BV1gf4y1D7L2)
 * [Exploit (Almost) All Xiaomi Routers Using Logical Bugs](https://hitcon.org/2020/slides/Exploit%20\(Almost\)%20All%20Xiaomi%20Routers%20Using%20Logical%20Bugs.pdf)
@@ -310,18 +310,18 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,119 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,120 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,565 | 🐛 103 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,600 | 🐛 51 | 🌐 Python | 📅 2026-10-29
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,567 | 🐛 103 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,601 | 🐛 51 | 🌐 Python | 📅 2026-10-29
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,082 | 🐛 159 | 🌐 Python | 📅 2026-10-21
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,007 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,728 | 🐛 16 | 🌐 Shell | 📅 2026-10-28
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,728 | 🐛 16 | 🌐 Shell | 📅 2026-10-29
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,234 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,233 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 351 | 🐛 0 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._

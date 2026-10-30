@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "UltramanGaia",
                 "repo": "Xiaomi_Mi_WiFi_R3G_Vulnerability_POC",
-                "stars": 186,
+                "stars": 185,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2119,
+                "stars": 2120,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14565,
+                "stars": 14567,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -188,7 +188,7 @@
                 "open_issues": 51,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2600,
+                "stars": 2601,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,7 +268,7 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-28T07:51:26Z",
+                "last_commit": "2026-10-29T07:37:44Z",
                 "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2234,
+                "stars": 2233,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:16:20.642Z",
+    "last_updated": "2026-10-30T01:21:40.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
@@ -487,7 +487,7 @@
       "open_issues": 2,
       "owner": "f1tao",
       "repo": "awesome-iot-security-resource",
-      "stars": 77,
+      "stars": 78,
       "topics": [
         "awesome",
         "awesome-list",
