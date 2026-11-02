@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14576,
+                "stars": 14579,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,8 +184,8 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-30T17:17:24Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-01T01:52:45Z",
+                "open_issues": 55,
                 "owner": "onekey-sec",
                 "repo": "unblob",
                 "stars": 2603,
@@ -215,7 +215,7 @@
                 "open_issues": 161,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2081,
+                "stars": 2082,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-29T07:37:44Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-02T00:34:32Z",
+                "open_issues": 19,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3738,
+                "stars": 3742,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2233,
+                "stars": 2234,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:26:34.477Z",
+    "last_updated": "2026-11-02T01:03:04.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
