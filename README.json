@@ -49,7 +49,7 @@
                 "open_issues": 1,
                 "owner": "UltramanGaia",
                 "repo": "Xiaomi_Mi_WiFi_R3G_Vulnerability_POC",
-                "stars": 185,
+                "stars": 186,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "ea",
                 "repo": "bosch_headunit_root",
-                "stars": 435,
+                "stars": 436,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14579,
+                "stars": 14591,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-01T01:52:45Z",
-                "open_issues": 55,
+                "last_commit": "2026-11-02T17:34:26Z",
+                "open_issues": 59,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2603,
+                "stars": 2614,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-02T00:34:32Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-02T07:46:47Z",
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3742,
+                "stars": 3746,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T01:03:04.759Z",
+    "last_updated": "2026-11-03T03:05:28.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
