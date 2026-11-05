@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "ea",
                 "repo": "bosch_headunit_root",
-                "stars": 436,
+                "stars": 437,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2122,
+                "stars": 2123,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14600,
+                "stars": 14611,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-03T19:32:01Z",
-                "open_issues": 56,
+                "last_commit": "2026-11-04T12:29:49Z",
+                "open_issues": 52,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2620,
+                "stars": 2626,
                 "topics": [
                   "archive",
                   "compression",
@@ -211,11 +211,11 @@
                 "id": 522646351,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-03T18:40:08Z",
+                "last_commit": "2026-11-04T07:20:11Z",
                 "open_issues": 160,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2083,
+                "stars": 2084,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -272,7 +272,7 @@
                 "open_issues": 15,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3749,
+                "stars": 3751,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:41:43.942Z",
+    "last_updated": "2026-11-05T01:49:51.773Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
