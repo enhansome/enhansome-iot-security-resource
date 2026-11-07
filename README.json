@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "ea",
                 "repo": "bosch_headunit_root",
-                "stars": 437,
+                "stars": 438,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14619,
+                "stars": 14626,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -185,10 +185,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-05T20:07:51Z",
-                "open_issues": 52,
+                "open_issues": 53,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2631,
+                "stars": 2635,
                 "topics": [
                   "archive",
                   "compression",
@@ -215,7 +215,7 @@
                 "open_issues": 160,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
-                "stars": 2084,
+                "stars": 2085,
                 "topics": [
                   "ctf",
                   "firmware",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2239,
+                "stars": 2238,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:49:56.916Z",
+    "last_updated": "2026-11-07T01:16:40.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
