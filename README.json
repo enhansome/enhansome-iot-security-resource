@@ -77,7 +77,7 @@
                 "open_issues": 3,
                 "owner": "tothi",
                 "repo": "pwn-hisilicon-dvr",
-                "stars": 383,
+                "stars": 382,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2122,
+                "stars": 2124,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -164,10 +164,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-08-11T15:27:34Z",
-                "open_issues": 104,
+                "open_issues": 105,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14641,
+                "stars": 14649,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T01:12:46Z",
-                "open_issues": 60,
+                "last_commit": "2026-11-09T18:58:08Z",
+                "open_issues": 59,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2640,
+                "stars": 2642,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-09T00:35:02Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-09T02:51:15Z",
+                "open_issues": 20,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3751,
+                "stars": 3752,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2239,
+                "stars": 2240,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T01:14:21.809Z",
+    "last_updated": "2026-11-10T03:50:27.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
