@@ -314,14 +314,14 @@
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,675 | 🐛 104 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,649 | 🐛 59 | 🌐 Python | 📅 2026-11-09
-* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,086 | 🐛 161 | 🌐 Python | 📅 2026-11-04
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,677 | 🐛 104 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,650 | 🐛 59 | 🌐 Python | 📅 2026-11-09
+* [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,087 | 🐛 161 | 🌐 Python | 📅 2026-11-04
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,007 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,759 | 🐛 16 | 🌐 Shell | 📅 2026-11-12
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,762 | 🐛 16 | 🌐 Shell | 📅 2026-11-12
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
