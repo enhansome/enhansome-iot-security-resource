@@ -218,7 +218,7 @@
 
 ### Car
 
-* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 438 | 🐛 13 | 🌐 C | 📅 2024-08-20
+* [Rooting Bosch lcn2kai Headunit](https://github.com/ea/bosch_headunit_root) ⭐ 439 | 🐛 13 | 🌐 C | 📅 2024-08-20
 * [How I Hacked my Car](https://programmingwithstyle.com/posts/howihackedmycar/)
 * [How I Hacked my Car Part 2: Making a Backdoor](https://programmingwithstyle.com/posts/howihackedmycarpart2/)
 * [How I Hacked my Car Part 3: Making Software](https://programmingwithstyle.com/posts/howihackedmycarpart3/)
@@ -310,18 +310,18 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,129 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,130 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,690 | 🐛 104 | 🌐 Rust | 📅 2026-08-11
-* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,652 | 🐛 61 | 🌐 Python | 📅 2026-11-09
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,709 | 🐛 104 | 🌐 Rust | 📅 2026-08-11
+* [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,659 | 🐛 51 | 🌐 Python | 📅 2026-11-16
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,090 | 🐛 161 | 🌐 Python | 📅 2026-11-04
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,008 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,765 | 🐛 19 | 🌐 Shell | 📅 2026-11-16
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,775 | 🐛 16 | 🌐 Shell | 📅 2026-11-16
 
 * [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
@@ -335,7 +335,7 @@
 
 ### Debug Tool
 
-* [gdb-static](https://github.com/hugsy/gdb-static) ⭐ 396 | 🐛 2 | 📅 2021-09-30
+* [gdb-static](https://github.com/hugsy/gdb-static) ⭐ 397 | 🐛 2 | 📅 2021-09-30
 
   Public repository of statically compiled GDB and GDBServer
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,244 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,245 | 🐛 18 | 🌐 C++ | 📅 2026-09-26
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 351 | 🐛 1 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._

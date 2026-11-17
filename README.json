@@ -105,7 +105,7 @@
                 "open_issues": 13,
                 "owner": "ea",
                 "repo": "bosch_headunit_root",
-                "stars": 438,
+                "stars": 439,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -139,7 +139,7 @@
                 "open_issues": 107,
                 "owner": "firmadyne",
                 "repo": "firmadyne",
-                "stars": 2129,
+                "stars": 2130,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -167,7 +167,7 @@
                 "open_issues": 104,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14690,
+                "stars": 14709,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,11 +184,11 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-09T18:58:08Z",
-                "open_issues": 61,
+                "last_commit": "2026-11-16T15:30:25Z",
+                "open_issues": 51,
                 "owner": "onekey-sec",
                 "repo": "unblob",
-                "stars": 2652,
+                "stars": 2659,
                 "topics": [
                   "archive",
                   "compression",
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-16T00:38:28Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-16T10:48:38Z",
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3765,
+                "stars": 3775,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -370,7 +370,7 @@
                 "open_issues": 2,
                 "owner": "hugsy",
                 "repo": "gdb-static",
-                "stars": 396,
+                "stars": 397,
                 "topics": [
                   "debug",
                   "exploit",
@@ -427,7 +427,7 @@
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "attack",
                   "ciphertext",
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:25:53.692Z",
+    "last_updated": "2026-11-17T04:12:11.877Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
