@@ -167,7 +167,7 @@
                 "open_issues": 103,
                 "owner": "ReFirmLabs",
                 "repo": "binwalk",
-                "stars": 14735,
+                "stars": 14736,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -184,8 +184,8 @@
                 "id": 374917397,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-18T14:20:02Z",
-                "open_issues": 53,
+                "last_commit": "2026-11-23T12:29:05Z",
+                "open_issues": 46,
                 "owner": "onekey-sec",
                 "repo": "unblob",
                 "stars": 2665,
@@ -212,7 +212,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-04T07:20:11Z",
-                "open_issues": 161,
+                "open_issues": 162,
                 "owner": "redballoonsecurity",
                 "repo": "ofrak",
                 "stars": 2089,
@@ -268,11 +268,11 @@
                 "id": 290152313,
                 "language": "Shell",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-23T00:35:24Z",
-                "open_issues": 19,
+                "last_commit": "2026-11-23T08:10:17Z",
+                "open_issues": 16,
                 "owner": "e-m-b-a",
                 "repo": "emba",
-                "stars": 3781,
+                "stars": 3782,
                 "topics": [
                   "artificial-intelligence",
                   "binary-analysis",
@@ -423,7 +423,7 @@
                 "id": 70791926,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-09-26T12:57:15Z",
+                "last_commit": "2026-11-23T19:05:07Z",
                 "open_issues": 18,
                 "owner": "kimci86",
                 "repo": "bkcrack",
@@ -460,7 +460,7 @@
                 "open_issues": 1,
                 "owner": "darkerego",
                 "repo": "mips-binaries",
-                "stars": 352,
+                "stars": 350,
                 "topics": []
               },
               "first_seen": "2026-08-28T05:49:55.576Z"
@@ -475,7 +475,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:59:33.896Z",
+    "last_updated": "2026-11-24T05:35:03.282Z",
     "original_repository_info": {
       "archived": false,
       "description": "awesome iot exploit resource",
