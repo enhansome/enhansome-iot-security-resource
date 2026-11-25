@@ -310,20 +310,20 @@
 
 ### Firmware Emulation
 
-* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,129 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
+* [firmadyne](https://github.com/firmadyne/firmadyne) ⭐ 2,130 | 🐛 107 | 🌐 Shell | 📅 2024-07-21
 
 ### Firmware Extraction
 
-* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,736 | 🐛 103 | 🌐 Rust | 📅 2026-08-11
+* [binwalk](https://github.com/ReFirmLabs/binwalk) ⭐ 14,739 | 🐛 102 | 🌐 Rust | 📅 2026-08-11
 * [unblob](https://github.com/onekey-sec/unblob) ⭐ 2,665 | 🐛 46 | 🌐 Python | 📅 2026-11-23
 * [ofrak](https://github.com/redballoonsecurity/ofrak) ⭐ 2,089 | 🐛 162 | 🌐 Python | 📅 2026-11-04
 * [firmware-mod-kit](https://github.com/rampageX/firmware-mod-kit) ⭐ 1,008 | 🐛 62 | 🌐 C | 📅 2026-02-17
 
 ### Firmware Analysis
 
-* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,782 | 🐛 16 | 🌐 Shell | 📅 2026-11-23
+* [emba](https://github.com/e-m-b-a/emba) ⭐ 3,783 | 🐛 16 | 🌐 Shell | 📅 2026-11-23
 
-* [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 375 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
+* [rbasefind](https://github.com/sgayou/rbasefind) ⭐ 376 | 🐛 1 | 🌐 Rust | 📅 2020-09-27
 
   A firmware base address search tool.
 
@@ -345,7 +345,7 @@
 
 ### Other
 
-* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,247 | 🐛 18 | 🌐 C++ | 📅 2026-11-23
+* [bkcrack](https://github.com/kimci86/bkcrack) ⭐ 2,248 | 🐛 18 | 🌐 C++ | 📅 2026-11-23
 
 * [mips-binaries](https://github.com/darkerego/mips-binaries) ⭐ 350 | 🐛 1 | 🌐 Shell | 📅 2024-09-12
 
@@ -367,4 +367,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
